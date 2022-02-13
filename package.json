@@ -13,6 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "bin": {
     "watchit": "index.js"
   },
@@ -22,6 +23,7 @@
   "homepage": "https://github.com/RaymondBLopez/watch-tool#readme",
   "dependencies": {
     "caporal": "^1.4.0",
+    "chalk": "^5.0.0",
     "chokidar": "^3.5.3",
     "lodash.debounce": "^4.0.8"
   }
